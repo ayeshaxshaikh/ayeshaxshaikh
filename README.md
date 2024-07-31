@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayesha Tabassum</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Crimson+Text&pause=1000&color=29F742&background=9FFF3A00&center=true&vCenter=true&width=435&lines=JAVA+FULL+STACK+DEVELOPER;BACKEND+DEVELOPER;PROMT+ENGINEER;QUICK+LEARNER"/>
+ </div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayeshaxshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="ayeshaxshaikh" /> </p>
 
 - 🌱 I’m a Full Stack Web Developer
