@@ -14,7 +14,9 @@
 - 💬 Ask me about **Front-End and Backend**
 
 - 📫 How to reach me **ayesha.shaikh0318@gmail.com**
-- 
+  <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ayeshaxshaikh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayeshaxshaikh/" height="30" width="40" /></a>
